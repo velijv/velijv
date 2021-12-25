@@ -1,8 +1,5 @@
 ### Hi there 👋
-## 🌱 I’m currently learning creating Windows 11 apps. 
-- 🤔 I’m looking for help with crippling depression. 
-- 📫 How to reach me: https://twitter.com/velivelilev
-# ⚡ Fun fact: I have been to over 40 Garage48 weekend hackathons. As a participant and mentor. 
+# ⚡ Fun fact: I have been to over 40 Garage48 weekend hackathons. As a participant and mentor. Thats like, 2000 hours, man. 😲
 
 <!--
 **velijv/velijv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
