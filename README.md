@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on @velijv
+- 🌱 I’m currently learning creating Windows 11 apps. 
+- 🤔 I’m looking for help with crippling depression. 
+- 💬 Ask me about design. 
+- 📫 How to reach me: twitter@velivelilev
+- ⚡ Fun fact: I have been to over 40 @garage48 weekend hackathons. 
 
 <!--
 **velijv/velijv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
