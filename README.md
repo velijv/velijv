@@ -6,7 +6,7 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=flat)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-9e9544.svg?logo=javascript&logoColor=white&style=flat)](#)
 
-[![](https://github-readme-stats.vercel.app/api?username=velijv&show_icons=true&theme=github_dark)](#)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1180070275&cover_image=false&theme=natemoo-re&bar_color_cover=true&bar_color=0cf104)](https://spotify-github-profile.vercel.app/api/view?uid=1180070275&redirect=true)
 
 ![ASUS](https://img.shields.io/badge/XPS-15-000.svg?logo=asus&logoColor=white&labelColor=000080)
 ![Intel](https://img.shields.io/badge/i9-9980HK-000.svg?&logo=intel&logoColor=white&labelColor=0071C5)
