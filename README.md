@@ -1,6 +1,10 @@
 # Hi there 👋
 ## ⚡ Fun fact: I have been to over 40 Garage48 weekend hackathons. As a participant and mentor. Thats like, 2000 hours, man. 😲
 
+[![CSS3](https://img.shields.io/badge/css3-50407a.svg?logo=css3&logoColor=white&style=flat)](#)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=flat)](#)
+[![JavaScript](https://img.shields.io/badge/javascript-9e9544.svg?logo=javascript&logoColor=white&style=flat)](#)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=velijv&show_icons=true&theme=github_dark" />
 </a>
