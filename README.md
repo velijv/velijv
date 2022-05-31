@@ -1,6 +1,4 @@
-# 🙏
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='24'>](https://github.com/velij)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/veliveromann/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='24'>](https://www.facebook.com/velijohan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='24'>](https://twitter.com/velivelilev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='24'>](https://veli.ee)  
+# <img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=32&size=32&color=00FF00&lines=Henlo+👋;Hello+🙏' alt='github' height='32'>
 
 ![Figma](https://img.shields.io/badge/%E2%80%8E-💯-000.svg?logo=figma&logoColor=fff&labelColor=F24E1E)
 ![Illy](https://img.shields.io/badge/%E2%80%8E-🔥-000.svg?logo=adobeillustrator&logoColor=fff&labelColor=FF9A00)
@@ -9,7 +7,7 @@
 [![HTML5](https://img.shields.io/badge/%E2%80%8E-✨-000.svg?logo=html5&logoColor=fff&labelColor=E34F26)](#)
 [![JavaScript](https://img.shields.io/badge/%E2%80%8E-👨‍💻-000.svg?logo=javascript&logoColor=fff&labelColor=F7DF1E)](#)
 
-## [🖥️](https://weekdone.com)
+## <a href="https://weekdone.com"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=00FF00&lines=Workibg💻;Working+🖥️' alt='github' height='24'></a>
 ![ASUS](https://img.shields.io/badge/XPS-15-B0BEC5.svg?logo=asus&logoColor=white&labelColor=000080)
 ![Intel](https://img.shields.io/badge/i9-9980HK-B0BEC5.svg?&logo=intel&logoColor=white&labelColor=0071C5)
 ![GTX](https://img.shields.io/badge/GTX-1650-B0BEC5.svg?&logo=nVIDIA&logoColor=white&labelColor=76B900)
@@ -17,12 +15,12 @@
 ![Apple](https://img.shields.io/badge/iPad-Pro-546E7A?logo=apple&logoColor=000&labelColor=fff)
 ![iOS](https://img.shields.io/badge/%E2%80%8E-15-546E7A?logo=ios&logoColor=000&labelColor=fff)
 
-## [🎮](https://veli.ee)
+## <a href="https://veli.ee"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=00FF00&lines=🎮+Not+workibg;📱+Not+working' alt='github' height='24'></a>
 ![OnePlus](https://img.shields.io/badge/8-T-9ed9ca.svg?logo=oneplus&logoColor=white&labelColor=F5010C)
 ![Android](https://img.shields.io/badge/%E2%80%8E-12-9ed9ca?logo=android&logoColor=white&labelColor=3DDC84)
 ![xbox](https://img.shields.io/badge/One-X-000?logo=xbox&logoColor=white&labelColor=107C10)
 
-## [🧑‍💻](https://github.com/velijv)
+## <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=00FF00&lines=🧑‍💻+Fun;⌨️+Hobby' alt='github' height='24'></a>
 ![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-4B+-41BDF5?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
 ![HASS](https://img.shields.io/badge/%E2%80%8E-8.1-C51A4A?logo=HomeAssistant&logoColor=fff&labelColor=41BDF5)
 ![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-3B+-D70A53?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
