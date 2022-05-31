@@ -3,10 +3,10 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='24'>](https://github.com/velij)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/veliveromann/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='24'>](https://www.facebook.com/velijohan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='24'>](https://twitter.com/velivelilev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='24'>](https://veli.ee)  
 
-![Figma](https://img.shields.io/badge/figma-78c685.svg?logo=figma&logoColor=white)
-[![CSS3](https://img.shields.io/badge/css3-50407a.svg?logo=css3&logoColor=white&style=flat)](#)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=flat)](#)
-[![JavaScript](https://img.shields.io/badge/javascript-9e9544.svg?logo=javascript&logoColor=white&style=flat)](#)
+![Figma](https://img.shields.io/badge/figma-78c685.svg?logo=figma&logoColor=white&style=for-the-badge)
+[![CSS3](https://img.shields.io/badge/css3-50407a.svg?logo=css3&logoColor=white&style=for-the-badge)](#)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)](#)
+[![JavaScript](https://img.shields.io/badge/javascript-9e9544.svg?logo=javascript&logoColor=white&style=for-the-badge)](#)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1180070275&cover_image=false&theme=natemoo-re&bar_color_cover=true&bar_color=0cf104)](https://spotify-github-profile.vercel.app/api/view?uid=1180070275&redirect=true)
 
