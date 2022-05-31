@@ -1,5 +1,7 @@
 # Hi there 👋
-## ⚡ Fun fact: I have been to over 40 Garage48 weekend hackathons. As a participant and mentor. Thats like, 2000 hours, man. 😲
+- ⚡ Fun fact: I have been to over 40 Garage48 weekend hackathons. As a participant and mentor. Thats like, 2000 hours, man. 😲
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='24'>](https://github.com/velij)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/veliveromann/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='24'>](https://www.facebook.com/velijohan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='24'>](https://twitter.com/velivelilev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='24'>](https://veli.ee)  
 
 ![Figma](https://img.shields.io/badge/figma-78c685.svg?logo=figma&logoColor=white)
 [![CSS3](https://img.shields.io/badge/css3-50407a.svg?logo=css3&logoColor=white&style=flat)](#)
