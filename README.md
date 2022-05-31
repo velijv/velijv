@@ -1,27 +1,33 @@
-# Hi there 👋
-- ⚡ Fun fact: I have been to over 40 Garage48 weekend hackathons. As a participant and mentor. Thats like, 2000 hours, man. 😲
+# 🙏
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='24'>](https://github.com/velij)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/veliveromann/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='24'>](https://www.facebook.com/velijohan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='24'>](https://twitter.com/velivelilev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='24'>](https://veli.ee)  
 
-![Figma](https://img.shields.io/badge/figma-78c685.svg?logo=figma&logoColor=white&style=for-the-badge)
-[![CSS3](https://img.shields.io/badge/css3-50407a.svg?logo=css3&logoColor=white&style=for-the-badge)](#)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)](#)
-[![JavaScript](https://img.shields.io/badge/javascript-9e9544.svg?logo=javascript&logoColor=white&style=for-the-badge)](#)
+![Figma](https://img.shields.io/badge/figma-000.svg?logo=figma&logoColor=78c685)
+[![CSS3](https://img.shields.io/badge/css3-000.svg?logo=css3&logoColor=50407a)](#)
+[![HTML5](https://img.shields.io/badge/html5-000.svg?logo=html5&logoColor=E34F26)](#)
+[![JavaScript](https://img.shields.io/badge/javascript-000.svg?logo=javascript&logoColor=9e9544)](#)
+
+## [🖥️](https://weekdone.com)
+![ASUS](https://img.shields.io/badge/XPS-15-B0BEC5.svg?logo=asus&logoColor=white&labelColor=000080)
+![Intel](https://img.shields.io/badge/i9-9980HK-B0BEC5.svg?&logo=intel&logoColor=white&labelColor=0071C5)
+![GTX](https://img.shields.io/badge/GTX-1650-B0BEC5.svg?&logo=nVIDIA&logoColor=white&labelColor=76B900)
+![Winwdows](https://img.shields.io/badge/%E2%80%8E-11-B0BEC5?&logo=windows&logoColor=white&labelColor=0078D6)
+![Apple](https://img.shields.io/badge/iPad-Pro-546E7A?logo=apple&logoColor=000&labelColor=fff)
+![iOS](https://img.shields.io/badge/%E2%80%8E-15-546E7A?logo=ios&logoColor=000&labelColor=fff)
+
+## [🎮](https://veli.ee)
+![OnePlus](https://img.shields.io/badge/8-T-9ed9ca.svg?logo=oneplus&logoColor=white&labelColor=F5010C)
+![Android](https://img.shields.io/badge/%E2%80%8E-12-9ed9ca?logo=android&logoColor=white&labelColor=3DDC84)
+![xbox](https://img.shields.io/badge/One-X-000?logo=xbox&logoColor=white&labelColor=107C10)
+
+## [🧑‍💻](https://github.com/velijv)
+![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-4B+-41BDF5?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
+![HASS](https://img.shields.io/badge/%E2%80%8E-8.1-C51A4A?logo=HomeAssistant&logoColor=fff&labelColor=41BDF5)
+![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-3B+-D70A53?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
+![Debian](https://img.shields.io/badge/%E2%80%8E-11-C51A4A?logo=debian&logoColor=white&labelColor=D70A53)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1180070275&cover_image=false&theme=natemoo-re&bar_color_cover=true&bar_color=0cf104)](https://spotify-github-profile.vercel.app/api/view?uid=1180070275&redirect=true)
 
-![ASUS](https://img.shields.io/badge/XPS-15-000.svg?logo=asus&logoColor=white&labelColor=000080)
-![Intel](https://img.shields.io/badge/i9-9980HK-000.svg?&logo=intel&logoColor=white&labelColor=0071C5)
-![GTX](https://img.shields.io/badge/GTX-1650-000.svg?&logo=nVIDIA&logoColor=white&labelColor=76B900)
-![Winwdows](https://img.shields.io/badge/%E2%80%8E-11-000?&logo=windows&logoColor=white&labelColor=0078D6)
-![Apple](https://img.shields.io/badge/iPad-Pro-000?logo=apple&logoColor=000&labelColor=fff)
-![iOS](https://img.shields.io/badge/%E2%80%8E-15-000?logo=ios&logoColor=000&labelColor=fff)
-![OnePlus](https://img.shields.io/badge/8-T-000.svg?logo=oneplus&logoColor=white&labelColor=F5010C)
-![Android](https://img.shields.io/badge/%E2%80%8E-12-000?logo=android&logoColor=white&labelColor=3DDC84)
-![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-4B+-000?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
-![HASS](https://img.shields.io/badge/%E2%80%8E-8.1-000?logo=HomeAssistant&logoColor=white&labelColor=41BDF5)
-![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-3B+-000?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
-![Debian](https://img.shields.io/badge/%E2%80%8E-11-000?logo=debian&logoColor=white&labelColor=D70A53)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
