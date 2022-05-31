@@ -8,12 +8,12 @@
 [![JavaScript](https://img.shields.io/badge/%E2%80%8E-👨‍💻-181b22.svg?logo=javascript&logoColor=fff&labelColor=F7DF1E)](#)
 
 ## <a href="https://weekdone.com"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=0071C5&font=Segoe&lines=💻+Workibg;🖥️+Working' alt='github' height='24'></a>
-![Dell](https://img.shields.io/badge/XPS%2015-7590-454545.svg?logo=dell&logoColor=white&labelColor=007DB8&style=flat-square) 
-![Intel](https://img.shields.io/badge/Core™%20i9-9980HK-000000.svg?&logo=intel&logoColor=white&labelColor=0068B5&style=flat-square)
-![GTX](https://img.shields.io/badge/GTX-1650-1e1e1e.svg?&logo=nVIDIA&logoColor=white&labelColor=76b900&style=flat-square)
-![Winwdows](https://img.shields.io/badge/11%20Pro-64--bit-202020?&logo=microsoft&logoColor=white&labelColor=0078D6&style=flat-square)
-![Apple](https://img.shields.io/badge/iPad-Pro%2011"%20-17181b?logo=apple&logoColor=17181b&labelColor=57585b&style=flat-square)
-![iOS](https://img.shields.io/badge/%E2%80%8E-15.5-17181b?logo=ios&logoColor=17181b&labelColor=57585b&style=flat-square)
+![Dell](https://img.shields.io/badge/XPS%2015-7590-454545.svg?logo=dell&logoColor=white&labelColor=007DB8&style=flat) 
+![Intel](https://img.shields.io/badge/Core™%20i9-9980HK-00C7FD.svg?&logo=intel&logoColor=white&labelColor=0068b5&style=flat)
+![GTX](https://img.shields.io/badge/GTX-1650-1e1e1e.svg?&logo=nVIDIA&logoColor=white&labelColor=76b900&style=flat)
+![Winwdows](https://img.shields.io/badge/11%20Pro-64--bit-202020?&logo=microsoft&logoColor=white&labelColor=0078D6&style=flat)
+![Apple](https://img.shields.io/badge/iPad-Pro%2011"%20-000?logo=apple&logoColor=000&labelColor=25282A&style=flat)
+![iOS](https://img.shields.io/badge/%E2%80%8E-15.5-000?logo=ios&logoColor=000&labelColor=25282A&style=flat)
 
 ***
 
