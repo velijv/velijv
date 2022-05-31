@@ -2,10 +2,12 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='24'>](https://github.com/velij)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/veliveromann/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='24'>](https://www.facebook.com/velijohan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='24'>](https://twitter.com/velivelilev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='24'>](https://veli.ee)  
 
-![Figma](https://img.shields.io/badge/figma-000.svg?logo=figma&logoColor=78c685)
-[![CSS3](https://img.shields.io/badge/css3-000.svg?logo=css3&logoColor=50407a)](#)
-[![HTML5](https://img.shields.io/badge/html5-000.svg?logo=html5&logoColor=E34F26)](#)
-[![JavaScript](https://img.shields.io/badge/javascript-000.svg?logo=javascript&logoColor=9e9544)](#)
+![Figma](https://img.shields.io/badge/%E2%80%8E-💯-000.svg?logo=figma&logoColor=fff&labelColor=F24E1E)
+![Illy](https://img.shields.io/badge/%E2%80%8E-🔥-000.svg?logo=adobeillustrator&logoColor=fff&labelColor=FF9A00)
+![Photoshop](https://img.shields.io/badge/%E2%80%8E-🤔-000.svg?logo=adobephotoshop&logoColor=fff&labelColor=31A8FF)
+[![CSS3](https://img.shields.io/badge/%E2%80%8E-😍-000.svg?logo=css3&logoColor=fff&labelColor=1572B6)](#)
+[![HTML5](https://img.shields.io/badge/%E2%80%8E-✨-000.svg?logo=html5&logoColor=fff&labelColor=E34F26)](#)
+[![JavaScript](https://img.shields.io/badge/%E2%80%8E-👨‍💻-000.svg?logo=javascript&logoColor=fff&labelColor=F7DF1E)](#)
 
 ## [🖥️](https://weekdone.com)
 ![ASUS](https://img.shields.io/badge/XPS-15-B0BEC5.svg?logo=asus&logoColor=white&labelColor=000080)
