@@ -11,7 +11,7 @@
 ![Dell](https://img.shields.io/badge/XPS%2015-7590-454545.svg?logo=dell&logoColor=white&labelColor=007DB8&style=flat) 
 ![Intel](https://img.shields.io/badge/Core™%20i9-9980HK-283a6e.svg?&logo=intel&logoColor=00C7FD&labelColor=0068b5&style=flat)
 ![GTX](https://img.shields.io/badge/GTX-1650-1e1e1e.svg?&logo=nVIDIA&logoColor=white&labelColor=76b900&style=flat)
-![Winwdows](https://img.shields.io/badge/11%20Pro-64--bit-000?&logo=microsoft&logoColor=white&labelColor=0078d4&style=flat)
+![Winwdows](https://img.shields.io/badge/11%20β-x64-000?&logo=microsoft&logoColor=white&labelColor=0078d4&style=flat)
 ![Apple](https://img.shields.io/badge/iPad-Pro%2011"%20-000?logo=apple&logoColor=000&labelColor=1d1d1f&style=flat)
 ![iOS](https://img.shields.io/badge/%E2%80%8E-15.5-000?logo=ios&logoColor=888&labelColor=1d1d1f&style=flat)
 
@@ -23,9 +23,9 @@
 ***
 
 ## <a href="https://veli.ee"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=3DDC84&font=Segoe&lines=🎮+Not+workibg;📱+Brb+rooting+phone' alt='github' height='24'></a>
-![OnePlus](https://img.shields.io/badge/%E2%80%8E-8T-9ed9ca.svg?logo=oneplus&logoColor=white&labelColor=F5010C)
-![Android](https://img.shields.io/badge/%E2%80%8E-12-9ed9ca?logo=android&logoColor=white&labelColor=3DDC84)
-![xbox](https://img.shields.io/badge/%E2%80%8E-1X-000?logo=xbox&logoColor=white&labelColor=107C10)
+![OnePlus](https://img.shields.io/badge/%E2%80%8E-8T-7ae1ce.svg?logo=oneplus&logoColor=white&labelColor=F5010C)
+![Android](https://img.shields.io/badge/%E2%80%8E-12-083042?logo=android&logoColor=white&labelColor=3ddc84)
+![xbox](https://img.shields.io/badge/%E2%80%8EOne%20Ⓧ-ffd800?logo=xbox&logoColor=white&labelColor=107c10)
 
 ## <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=C51A4A&font=Segoe&lines=🧑‍💻+Fun;⌨️+Hobby' alt='github' height='24'></a>
 ![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-4B+-41BDF5?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
