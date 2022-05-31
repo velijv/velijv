@@ -6,14 +6,25 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=flat)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-9e9544.svg?logo=javascript&logoColor=white&style=flat)](#)
 
+[![](https://github-readme-stats.vercel.app/api?username=velijv&show_icons=true&theme=github_dark)](#)
+
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white)
+
+![Microsoft](https://img.shields.io/badge/%E2%80%8E-11%20Pro%20Insider%20Preview-000?&logo=microsoft&logoColor=white&labelColor=0078D4)
+![Android](https://img.shields.io/badge/%E2%80%8E-12-000?logo=android&logoColor=white&labelColor=3DDC84)
+![iOS](https://img.shields.io/badge/%E2%80%8E-15.5-000?logo=ios&logoColor=000&labelColor=fff)
+
+![](https://img.shields.io/badge/GeForce-GTX%201650-000.svg?&logo=nVIDIA&logoColor=white&labelColor=76B900)
+
+
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=velijv&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=velijv&layout=compact&theme=github_dark" />
 </a>
-
-<!--
 
 [![](https://github-readme-stats.vercel.app/api?username=velijv&show_icons=true&theme=github_dark)](#)
 
