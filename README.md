@@ -33,10 +33,11 @@
 ![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-3B+-D70A53?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
 ![Debian](https://img.shields.io/badge/%E2%80%8E-11-C51A4A?logo=debian&logoColor=white&labelColor=D70A53)
 
+<!--
+
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1180070275&cover_image=false&theme=natemoo-re&bar_color_cover=true&bar_color=0cf104)](https://spotify-github-profile.vercel.app/api/view?uid=1180070275&redirect=true)
 
-
-<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=velijv&show_icons=true&theme=github_dark" />
 </a>
