@@ -24,14 +24,14 @@
 
 ## <a href="https://veli.ee"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=3DDC84&font=Segoe&lines=🎮+Not+workibg;📱+Brb+rooting+phone' alt='github' height='24'></a>
 ![OnePlus](https://img.shields.io/badge/%E2%80%8E-8T-7ae1ce.svg?logo=oneplus&logoColor=white&labelColor=F5010C)
-![Android](https://img.shields.io/badge/%E2%80%8E-12-083042?logo=android&logoColor=white&labelColor=3ddc84)
+![Android](https://img.shields.io/badge/%E2%80%8E-12-3ddc84?logo=android&logoColor=3ddc84&labelColor=083042)
 ![xbox](https://img.shields.io/badge/%E2%80%8EOne%20Ⓧ-ffd800?logo=xbox&logoColor=white&labelColor=107c10)
 
 ## <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=C51A4A&font=Segoe&lines=🧑‍💻+Fun;⌨️+Hobby' alt='github' height='24'></a>
-![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-4B+-6cc04a?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a)
+![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-4B+-b7d1ec?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a)
 ![HASS](https://img.shields.io/badge/%E2%80%8E-8.1-b3e5fC?logo=HomeAssistant&logoColor=fff&labelColor=40BDF5)
-![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-3B+-D70A53?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
-![Debian](https://img.shields.io/badge/%E2%80%8E-11-C51A4A?logo=debian&logoColor=white&labelColor=D70A53)
+![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-3B+-c6b8d3?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
+![Debian](https://img.shields.io/badge/%E2%80%8E-11-e7beae?logo=debian&logoColor=white&labelColor=D70A53)
 
 <!--
 
