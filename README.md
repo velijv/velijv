@@ -15,6 +15,10 @@
 ![Apple](https://img.shields.io/badge/iPad-Pro-546E7A?logo=apple&logoColor=000&labelColor=fff)
 ![iOS](https://img.shields.io/badge/%E2%80%8E-15-546E7A?logo=ios&logoColor=000&labelColor=fff)
 
+
+<a href="#"><img src='https://veli.ee/pagespeed.svg' alt='github' height='96'></a>
+
+
 ## <a href="https://veli.ee"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=3DDC84&font=Segoe&lines=🎮+Not+workibg;📱+Brb+rooting+phone' alt='github' height='24'></a>
 ![OnePlus](https://img.shields.io/badge/8-T-9ed9ca.svg?logo=oneplus&logoColor=white&labelColor=F5010C)
 ![Android](https://img.shields.io/badge/%E2%80%8E-12-9ed9ca?logo=android&logoColor=white&labelColor=3DDC84)
