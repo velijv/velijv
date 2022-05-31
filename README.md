@@ -8,8 +8,8 @@
 [![JavaScript](https://img.shields.io/badge/%E2%80%8E-👨‍💻-000.svg?logo=javascript&logoColor=fff&labelColor=F7DF1E)](#)
 
 ## <a href="https://weekdone.com"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=0071C5&font=Segoe&lines=💻+Workibg;🖥️+Working' alt='github' height='24'></a>
-![ASUS](https://img.shields.io/badge/XPS-15-B0BEC5.svg?logo=asus&logoColor=white&labelColor=000080)
-![Intel](https://img.shields.io/badge/i9-9980HK-B0BEC5.svg?&logo=intel&logoColor=white&labelColor=0071C5)
+![Dell](https://img.shields.io/badge/XPS-15-B0BEC5.svg?logo=dell&logoColor=white&labelColor=007DB8) 
+![Intel](https://img.shields.io/badge/i9-9980-B0BEC5.svg?&logo=intel&logoColor=white&labelColor=0071C5)
 ![GTX](https://img.shields.io/badge/GTX-1650-B0BEC5.svg?&logo=nVIDIA&logoColor=white&labelColor=76B900)
 ![Winwdows](https://img.shields.io/badge/%E2%80%8E-11-B0BEC5?&logo=windows&logoColor=white&labelColor=0078D6)
 ![Apple](https://img.shields.io/badge/iPad-Pro-546E7A?logo=apple&logoColor=000&labelColor=fff)
