@@ -11,16 +11,20 @@
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white)
 
-![Microsoft](https://img.shields.io/badge/%E2%80%8E-11-000?&logo=windows&logoColor=white&labelColor=0078D6)
-![Android](https://img.shields.io/badge/%E2%80%8E-12-000?logo=android&logoColor=white&labelColor=3DDC84)
-![iOS](https://img.shields.io/badge/%E2%80%8E-15-000?logo=ios&logoColor=000&labelColor=fff)
-![Debian](https://img.shields.io/badge/%E2%80%8E-11-000?logo=debian&logoColor=white&labelColor=D70A53)
-
 ![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-4B+-000?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
 ![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-4B+-000?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
 ![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-3B+-000?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
-![](https://img.shields.io/badge/GeForce-GTX%201650-000.svg?&logo=nVIDIA&logoColor=white&labelColor=76B900)
+![Debian](https://img.shields.io/badge/%E2%80%8E-11-000?logo=debian&logoColor=white&labelColor=D70A53)
 
+![ASUS](https://img.shields.io/badge/%E2%80%8E-XPS%2015-000.svg?logo=asus&logoColor=white&labelColor=000080)
+![GTX](https://img.shields.io/badge/GeForce-GTX%201650-000.svg?&logo=nVIDIA&logoColor=white&labelColor=76B900)
+![Microsoft](https://img.shields.io/badge/%E2%80%8E-11-000?&logo=windows&logoColor=white&labelColor=0078D6)
+
+![iOS](https://img.shields.io/badge/%E2%80%8E-iPad%20Pro-000?logo=apple&logoColor=000&labelColor=fff)
+![iOS](https://img.shields.io/badge/%E2%80%8E-15-000?logo=ios&logoColor=000&labelColor=fff)
+
+![OnePlus](https://img.shields.io/badge/%E2%80%8E-8T-000.svg?logo=oneplus&logoColor=white&labelColor=F5010C)
+![Android](https://img.shields.io/badge/%E2%80%8E-12-000?logo=android&logoColor=white&labelColor=3DDC84)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
