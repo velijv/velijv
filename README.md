@@ -16,6 +16,9 @@
 ![iOS](https://img.shields.io/badge/%E2%80%8E-15-000?logo=ios&logoColor=000&labelColor=fff)
 ![Debian](https://img.shields.io/badge/%E2%80%8E-11-000?logo=debian&logoColor=white&labelColor=D70A53)
 
+![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-4B+-000?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
+![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-4B+-000?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
+![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-3B+-000?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
 ![](https://img.shields.io/badge/GeForce-GTX%201650-000.svg?&logo=nVIDIA&logoColor=white&labelColor=76B900)
 
 
