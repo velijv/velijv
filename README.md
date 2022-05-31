@@ -11,9 +11,10 @@
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white)
 
-![Microsoft](https://img.shields.io/badge/%E2%80%8E-11%20Pro%20Insider%20Preview-000?&logo=microsoft&logoColor=white&labelColor=0078D4)
+![Microsoft](https://img.shields.io/badge/%E2%80%8E-11-000?&logo=windows&logoColor=white&labelColor=0078D6)
 ![Android](https://img.shields.io/badge/%E2%80%8E-12-000?logo=android&logoColor=white&labelColor=3DDC84)
-![iOS](https://img.shields.io/badge/%E2%80%8E-15.5-000?logo=ios&logoColor=000&labelColor=fff)
+![iOS](https://img.shields.io/badge/%E2%80%8E-15-000?logo=ios&logoColor=000&labelColor=fff)
+![Debian](https://img.shields.io/badge/%E2%80%8E-11-000?logo=debian&logoColor=white&labelColor=D70A53)
 
 ![](https://img.shields.io/badge/GeForce-GTX%201650-000.svg?&logo=nVIDIA&logoColor=white&labelColor=76B900)
 
