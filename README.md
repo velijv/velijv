@@ -28,9 +28,9 @@
 ![xbox](https://img.shields.io/badge/%E2%80%8EOne%20Ⓧ-ffd800?logo=xbox&logoColor=white&labelColor=107c10)
 
 ## <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=C51A4A&font=Segoe&lines=🧑‍💻+Fun;⌨️+Hobby' alt='github' height='24'></a>
-![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-4B+-b7d1ec?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a)
+![Raspberry Pi](https://img.shields.io/badge/4B+-x64-b7d1ec?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a)
 ![HASS](https://img.shields.io/badge/%E2%80%8E-8.1-b3e5fC?logo=HomeAssistant&logoColor=fff&labelColor=40BDF5)
-![Raspberry Pi](https://img.shields.io/badge/%E2%80%8E-3B+-c6b8d3?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
+![Raspberry Pi](https://img.shields.io/badge/4B+-rpi4--64-c6b8d3?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
 ![Debian](https://img.shields.io/badge/%E2%80%8E-11-e7beae?logo=debian&logoColor=white&labelColor=D70A53)
 
 <!--
