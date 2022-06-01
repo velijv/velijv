@@ -12,7 +12,7 @@
 ![Intel](https://img.shields.io/badge/Core™%20i9-9980HK-283a6e.svg?&logo=intel&logoColor=00C7FD&labelColor=0068b5&style=flat)
 ![GTX](https://img.shields.io/badge/GTX-1650-1e1e1e.svg?&logo=nVIDIA&logoColor=white&labelColor=76b900&style=flat)
 ![Winwdows](https://img.shields.io/badge/11%20β-x64-000?&logo=microsoft&logoColor=white&labelColor=0078d4&style=flat)
-![Apple](https://img.shields.io/badge/iPad-Pro%2011"%20-000?logo=apple&logoColor=000&labelColor=1d1d1f&style=flat)
+![Apple](https://img.shields.io/badge/iPad-Pro%2011"%20-000?logo=apple&logoColor=888&labelColor=1d1d1f&style=flat)
 ![iOS](https://img.shields.io/badge/%E2%80%8E-15.5-000?logo=ios&logoColor=888&labelColor=1d1d1f&style=flat)
 
 ***
