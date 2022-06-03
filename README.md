@@ -23,14 +23,14 @@
 ***
 
 ## <a href="https://veli.ee"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=3DDC84&font=Segoe&lines=🎮+Not+workibg;📱+Brb+rooting+phone' alt='github' height='24'></a>
-[![OnePlus](https://img.shields.io/badge/%E2%80%8E-8T-rgba%280%2C0%2C0%2C0%29.svg?logo=oneplus&logoColor=7ae1ce&labelColor=F5010C&style=flat-square)](#)
+[![OnePlus](https://img.shields.io/badge/8-T-rgba%280%2C0%2C0%2C0%29.svg?logo=oneplus&logoColor=7ae1ce&labelColor=F5010C&style=flat-square)](#)
 [![Android](https://img.shields.io/badge/%E2%80%8E-12-rgba%280%2C0%2C0%2C0%29?logo=android&logoColor=3ddc84&labelColor=083042&style=flat-square)](#)
-[![xbox](https://img.shields.io/badge/%E2%80%8EI%20Ⓧ-rgba%280%2C0%2C0%2C0%29?logo=xbox&logoColor=ffd800&labelColor=107c10&style=flat-square)](#)
+[![xbox](https://img.shields.io/badge/1-✖-rgba%280%2C0%2C0%2C0%29?logo=xbox&logoColor=ffd800&labelColor=107c10&style=flat-square)](#)
 
 ## <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=C51A4A&font=Segoe&lines=🧑‍💻+Fun;⌨️+Hobby' alt='github' height='24'></a>
-[![Raspberry Pi](https://img.shields.io/badge/4B+-x64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a&style=flat-square)](#)
+[![Raspberry Pi](https://img.shields.io/badge/4️B+-x64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a&style=flat-square)](#)
 [![HASS](https://img.shields.io/badge/%E2%80%8E-8.1-rgba%280%2C0%2C0%2C0%29?logo=HomeAssistant&logoColor=fff&labelColor=40BDF5&style=flat-square)](#)
-[![Raspberry Pi](https://img.shields.io/badge/4B+-rpi4--64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A&style=flat-square)](#)
+[![Raspberry Pi](https://img.shields.io/badge/4️B+-rpi4--64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A&style=flat-square)](#)
 [![Debian](https://img.shields.io/badge/%E2%80%8E-11-rgba%280%2C0%2C0%2C0%29?logo=debian&logoColor=white&labelColor=D70A53&style=flat-square)](#)
 
 <!--
