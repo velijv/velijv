@@ -23,15 +23,15 @@
 ***
 
 ## <a href="https://veli.ee"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=3DDC84&font=Segoe&lines=🎮+Not+workibg;📱+Brb+rooting+phone' alt='github' height='24'></a>
-![OnePlus](https://img.shields.io/badge/%E2%80%8E-8T-7ae1ce.svg?logo=oneplus&logoColor=white&labelColor=F5010C)
+![OnePlus](https://img.shields.io/badge/%E2%80%8E-8T-rgba%280%2C0%2C0%2C0%29.svg?logo=oneplus&logoColor=7ae1ce&labelColor=F5010C)
 ![Android](https://img.shields.io/badge/%E2%80%8E-12-3ddc84?logo=android&logoColor=3ddc84&labelColor=083042)
-![xbox](https://img.shields.io/badge/%E2%80%8EOne%20Ⓧ-ffd800?logo=xbox&logoColor=white&labelColor=107c10)
+![xbox](https://img.shields.io/badge/%E2%80%8EOne%20Ⓧ-rgba%280%2C0%2C0%2C0%29?logo=xbox&logoColor=ffd800&labelColor=107c10)
 
 ## <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=C51A4A&font=Segoe&lines=🧑‍💻+Fun;⌨️+Hobby' alt='github' height='24'></a>
-![Raspberry Pi](https://img.shields.io/badge/4B+-x64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a)
-![HASS](https://img.shields.io/badge/%E2%80%8E-8.1-b3e5fC?logo=HomeAssistant&logoColor=fff&labelColor=40BDF5)
-![Raspberry Pi](https://img.shields.io/badge/4B+-rpi4--64-c6b8d3?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A)
-![Debian](https://img.shields.io/badge/%E2%80%8E-11-e7beae?logo=debian&logoColor=white&labelColor=D70A53)
+![Raspberry Pi](https://img.shields.io/badge/4B+-x64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a&style=flat-square)
+![HASS](https://img.shields.io/badge/%E2%80%8E-8.1-rgba%280%2C0%2C0%2C0%29?logo=HomeAssistant&logoColor=fff&labelColor=40BDF5&style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/4B+-rpi4--64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A&style=flat-square)
+![Debian](https://img.shields.io/badge/%E2%80%8E-11-rgba%280%2C0%2C0%2C0%29?logo=debian&logoColor=white&labelColor=D70A53&style=flat-square)
 
 <!--
 
