@@ -29,7 +29,7 @@
 [![HASS](https://img.shields.io/badge/%E2%80%8E-8.1-rgba%280%2C0%2C0%2C0%29?logo=HomeAssistant&logoColor=fff&labelColor=40BDF5&style=flat-square&color=rgba(64,189,245,0.3))](#)
 [![Raspberry Pi](https://img.shields.io/badge/4B-rpi4--64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A&style=flat-square&color=rgba(197,26,74,0.3))](#)
 [![Debian](https://img.shields.io/badge/%E2%80%8E-11-rgba%280%2C0%2C0%2C0%29?logo=debian&logoColor=white&labelColor=D70A53&style=flat-square&color=rgba(215,10,83,0.3))](#)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/velijv?logo=heart&style=flat-square&labelColor=EA4AAA&logocolor=fff&color=rgba(234,74,170,0.3))](https://github.com/sponsors/velijv)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/velijv?logo=GithubSponsors&label=%E2%80%8E&style=flat-square&labelColor=rgba(234,74,170,0)&logocolor=EA4AAA&color=rgba(234,74,170,0.1))](https://github.com/sponsors/velijv)
 
 ## <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&a' width="14"></a> <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=14&size=14&color=808080&font=Segoe&lines=I+just+💚+what+can+be+done+with+colors;And+dynamic+generative+interfaces' alt='github' height='14'></a>
 
