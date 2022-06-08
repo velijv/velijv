@@ -34,7 +34,7 @@
 [![Debian](https://img.shields.io/badge/%E2%80%8E-11-rgba%280%2C0%2C0%2C0%29?logo=debian&logoColor=white&labelColor=D70A53&style=flat-square)](#)
 
 
-| <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg' alt='github' width="300"></a> | 
+| <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&1' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&2' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&3' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&4' alt='github' width="300"></a> | 
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 
 
