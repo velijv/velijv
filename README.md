@@ -17,10 +17,8 @@
 
 ***
 
-<a href="#"><img src='https://veli.ee/img/pagespeed.php?1' alt='github' height="64"></a>
-<a href="#"><img src='https://veli.ee/northeast/logo.php?type=designed+in&mode=dark&c1=808080&c2=2962FF' alt='github' height="64"></a>
-<a href="#"><img src='https://veli.ee/uptime/image.php' alt='github' height="64"></a>
-
+| <a href="#"><img src='https://veli.ee/img/pagespeed.php?1' alt='github' width="300"></a> | <a href="#"><img src='https://veli.ee/northeast/logo.php?type=designed+in&mode=dark&c1=808080&c2=2962FF' alt='github' width="300"></a> | <a href="#"><img src='https://veli.ee/uptime/image.php' alt='github' width="300"></a> | 
+|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 
 ***
 
@@ -34,6 +32,11 @@
 [![HASS](https://img.shields.io/badge/%E2%80%8E-8.1-rgba%280%2C0%2C0%2C0%29?logo=HomeAssistant&logoColor=fff&labelColor=40BDF5&style=flat-square)](#)
 [![Raspberry Pi](https://img.shields.io/badge/4️B+-rpi4--64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A&style=flat-square)](#)
 [![Debian](https://img.shields.io/badge/%E2%80%8E-11-rgba%280%2C0%2C0%2C0%29?logo=debian&logoColor=white&labelColor=D70A53&style=flat-square)](#)
+
+
+| <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg' alt='github' width="300"></a> | 
+|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+
 
 <!--
 
