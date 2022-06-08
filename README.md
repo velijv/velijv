@@ -8,29 +8,30 @@
 [![JavaScript](https://img.shields.io/badge/%E2%80%8E-👨‍💻-rgba%280%2C0%2C0%2C0%29.svg?logo=javascript&logoColor=F7DF1E&labelColor=161b22&style=for-the-badge)](#)
 
 ## <a href="https://weekdone.com"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=💻+Workibg👨‍💻;🖥️+Working' alt='github' height='24'></a>
-[![Dell](https://img.shields.io/badge/XPS%2015-7590-454545.svg?logo=dell&logoColor=white&labelColor=007DB8&style=for-the-badge)](#)
-[![Intel](https://img.shields.io/badge/Core™%20i9-9980HK-283a6e.svg?&logo=intel&logoColor=00C7FD&labelColor=0068b5&style=for-the-badge)](#)
+[![Dell](https://img.shields.io/badge/XPS%2015-7590-454545.svg?logo=dell&logoColor=white&labelColor=007DB8&style=for-the-badge&color=rgba(0,0,0,0.3))](#)
+[![Intel Core™ 9980HK](https://img.shields.io/badge/Core™%20-i9-283a6e.svg?&logo=intel&logoColor=00C7FD&labelColor=0068b5&style=for-the-badge)](#)
 [![GTX](https://img.shields.io/badge/GTX-1650-1e1e1e.svg?&logo=nVIDIA&logoColor=white&labelColor=76b900&style=for-the-badge)](#)
-[![Winwdows](https://img.shields.io/badge/11%20β-x64-000?&logo=microsoft&logoColor=white&labelColor=0078d4&style=for-the-badge)](#)
-[![Apple](https://img.shields.io/badge/iPad-Pro%2011"%20-000?logo=apple&logoColor=888&labelColor=1d1d1f&style=for-the-badge)](#)
-[![iOS](https://img.shields.io/badge/%E2%80%8E-15.5-000?logo=ios&logoColor=888&labelColor=1d1d1f&style=for-the-badge)](#)
+[![Winwdows](https://img.shields.io/badge/11-x64-000?&logo=microsoft&logoColor=white&labelColor=0078d4&style=for-the-badge&color=rgba(0,0,0,0.3))](#)
+[![Apple](https://img.shields.io/badge/iPad-Pro%2011"%20-000?logo=apple&logoColor=888&labelColor=1d1d1f&style=for-the-badge&color=rgba(0,0,0,0.3))](#)
+[![iOS](https://img.shields.io/badge/%E2%80%8E-15-000?logo=ios&logoColor=888&labelColor=1d1d1f&style=for-the-badge&color=rgba(0,0,0,0.3))](#)
 
-| <a href="#"><img src='https://veli.ee/img/pagespeed.php?1' alt='github' width="300"></a> | <a href="https://veli.ee/northeast"><img src='https://veli.ee/northeast/logo.php?type=designed+in&mode=dark&c1=808080&c2=2962FF' alt='github' width="300"></a> | <a href="#"><img src='https://veli.ee/uptime/image.php' alt='github' width="300"></a> | 
+| <a href="#"><img src='https://veli.ee/img/pagespeed.php?1' alt='github' width="300"></a> | <a href="https://veli.ee/northeast"><img src='https://veli.ee/northeast/logo.php?type=designed+in&mode=dark&c1=808080&c2=2962FF' alt='github' width="200"></a> | <a href="#"><img src='https://veli.ee/uptime/image.php' alt='github' width="300"></a> | 
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+
+## <a href="https://veli.ee"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=Not+🎮+workibg+💯;📱+Brb+rooting+🔥+phone' alt='github' height='24'></a>
+[![OnePlus](https://img.shields.io/badge/8-T-rgba%280%2C0%2C0%2C0%29.svg?logo=oneplus&logoColor=7ae1ce&labelColor=F5010C&style=for-the-badge&color=rgba(0,0,0,0.3))](#)
+[![Android](https://img.shields.io/badge/%E2%80%8E-12-rgba%280%2C0%2C0%2C0%29?logo=android&logoColor=3ddc84&labelColor=083042&style=for-the-badge&color=rgba(0,0,0,0.3))](#)
+[![xbox](https://img.shields.io/badge/1-✖-rgba%280%2C0%2C0%2C0%29?logo=xbox&logoColor=ffd800&labelColor=107c10&style=for-the-badge&color=rgba(0,0,0,0.3))](#)
+
+## <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=🧑‍💻+Fun+⌨️+hacking+Raspberries;+Hobby🔥+Linux+Administration' alt='github' height='24'></a>
+[![Raspberry Pi](https://img.shields.io/badge/4️B+-x64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a&style=for-the-badge&color=rgba(0,0,0,0.3))](#)
+[![HASS](https://img.shields.io/badge/%E2%80%8E-8.1-rgba%280%2C0%2C0%2C0%29?logo=HomeAssistant&logoColor=fff&labelColor=40BDF5&style=for-the-badge&color=rgba(0,0,0,0.3))](#)
+[![Raspberry Pi](https://img.shields.io/badge/4️B+-rpi4--64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A&style=for-the-badge&color=rgba(0,0,0,0.3))](#)
+[![Debian](https://img.shields.io/badge/%E2%80%8E-11-rgba%280%2C0%2C0%2C0%29?logo=debian&logoColor=white&labelColor=D70A53&style=for-the-badge&color=rgba(0,0,0,0.3))](#)
 
 ***
 
-## <a href="https://veli.ee"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=Not+🎮+workibg+💯;📱+Brb+rooting+🔥+phone' alt='github' height='24'></a>
-[![OnePlus](https://img.shields.io/badge/8-T-rgba%280%2C0%2C0%2C0%29.svg?logo=oneplus&logoColor=7ae1ce&labelColor=F5010C&style=for-the-badge)](#)
-[![Android](https://img.shields.io/badge/%E2%80%8E-12-rgba%280%2C0%2C0%2C0%29?logo=android&logoColor=3ddc84&labelColor=083042&style=for-the-badge)](#)
-[![xbox](https://img.shields.io/badge/1-✖-rgba%280%2C0%2C0%2C0%29?logo=xbox&logoColor=ffd800&labelColor=107c10&style=for-the-badge)](#)
-
-## <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=🧑‍💻+Fun+⌨️+hacking+Raspberries;+Hobby🔥+Linux+Administration' alt='github' height='24'></a>
-[![Raspberry Pi](https://img.shields.io/badge/4️B+-x64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a&style=for-the-badge)](#)
-[![HASS](https://img.shields.io/badge/%E2%80%8E-8.1-rgba%280%2C0%2C0%2C0%29?logo=HomeAssistant&logoColor=fff&labelColor=40BDF5&style=for-the-badge)](#)
-[![Raspberry Pi](https://img.shields.io/badge/4️B+-rpi4--64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A&style=for-the-badge)](#)
-[![Debian](https://img.shields.io/badge/%E2%80%8E-11-rgba%280%2C0%2C0%2C0%29?logo=debian&logoColor=white&labelColor=D70A53&style=for-the-badge)](#)
-
+## <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=I+just+💚+what+can+be+done+with+colors;And+dynamic+generative+interfaces' alt='github' height='24'></a>
 
 | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&a' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&b' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&e' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&d' alt='github' width="300"></a> | 
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
