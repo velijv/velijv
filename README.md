@@ -15,8 +15,8 @@
 [![Apple](https://img.shields.io/badge/iPad-Pro%2011"%20-000?logo=apple&logoColor=888&labelColor=1d1d1f&style=for-the-badge&color=rgba(0,0,0,0.3))](#)
 [![iOS](https://img.shields.io/badge/%E2%80%8E-15-000?logo=ios&logoColor=888&labelColor=1d1d1f&style=for-the-badge&color=rgba(0,0,0,0.3))](#)
 
-| <a href="#"><img src='https://veli.ee/img/pagespeed.php?1' alt='github' width="300"></a> | <a href="https://veli.ee/northeast"><img src='https://veli.ee/northeast/logo.php?type=designed+in&mode=dark&c1=808080&c2=2962FF' alt='github' width="200"></a> | <a href="#"><img src='https://veli.ee/uptime/image.php' alt='github' width="300"></a> | 
-|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| <a href="#"><img src='https://veli.ee/img/pagespeed.php?1' alt='github' width="300"></a> | <a href="https://veli.ee/northeast"><img src='https://veli.ee/northeast/logo.php?type=designed+in&mode=dark&c1=808080&c2=2962FF' alt='github' width="200"></a> | <a href="#" title="Yes these are my real live stats"><img src='https://veli.ee/uptime/image.php' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia" title="Hey, Pick a cool color"><img src='https://veli.ee/colorpedia/icon.php?svg&a' alt='github' width="50"></a> | 
+|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 
 ## <a href="https://veli.ee"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=Not+🎮+workibg+💯;📱+Brb+rooting+🔥+phone' alt='github' height='24'></a>
 [![OnePlus](https://img.shields.io/badge/8-T-rgba%280%2C0%2C0%2C0%29.svg?logo=oneplus&logoColor=7ae1ce&labelColor=F5010C&style=for-the-badge&color=rgba(0,0,0,0.3))](#)
@@ -31,11 +31,7 @@
 
 ***
 
-## <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=I+just+💚+what+can+be+done+with+colors;And+dynamic+generative+interfaces' alt='github' height='24'></a>
-
-| <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&a' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&b' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&e' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&d' alt='github' width="300"></a> | 
-|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-
+## <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&a' width="24"></a> <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=I+just+💚+what+can+be+done+with+colors;And+dynamic+generative+interfaces' alt='github' height='24'></a>
 
 <!--
 
