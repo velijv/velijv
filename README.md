@@ -17,7 +17,7 @@
 
 ***
 
-<a href="#"><img src='https://veli.ee/pagespeed.svg' alt='github' height="64"></a>
+<a href="#"><img src='https://veli.ee/img/pagespeed.php' alt='github' height="64"></a>
 <a href="#"><img src='https://veli.ee/northeast/logo.php?type=designed+in&mode=dark' alt='github' height="64"></a>
 
 ***
