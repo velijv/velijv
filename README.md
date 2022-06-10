@@ -14,7 +14,7 @@
 [![GTX](https://img.shields.io/badge/GTX-1650-1e1e1e.svg?&logo=nVIDIA&logoColor=white&labelColor=76b900&color=rgba(30,30,30,0.3)&style=flat-square)](#)
 [![Winwdows](https://img.shields.io/badge/11-x64-000?&logo=microsoft&logoColor=white&labelColor=0078d4&style=flat-square&color=rgba(0,0,0,0.3))](#)
 [![Apple](https://img.shields.io/badge/iPad-Pro-000?logo=apple&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
-[![iOS](https://img.shields.io/badge/%E2%80%8E-15.6-000?logo=ios&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
+[![iOS](https://img.shields.io/badge/%E2%80%8E-16-000?logo=ios&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
 
 | <a href="https://veli.ee"><img src='https://veli.ee/favicon.php?1' alt='github' width="50"></a> | <a href="#"><img src='https://veli.ee/img/pagespeed.php?1' alt='github' width="300"></a> | <a href="https://veli.ee/northeast"><img src='https://veli.ee/northeast/logo.php?c1=808080&c2=2962FF' alt='github' width="200"></a> | <a href="#" title="Yes these are my real live stats"><img src='https://veli.ee/uptime/image.php' alt='github' width="300"></a> | <a href="https://veli.ee/colorpedia" title="Hey, Pick a cool color"><img src='https://veli.ee/colorpedia/icon.php?svg&a' alt='github' width="50"></a> | 
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -34,20 +34,6 @@
 ## <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon.php?svg&a' width="14"></a> <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=14&size=14&color=808080&font=Segoe&lines=I+just+💚+what+can+be+done+with+colors;And+dynamic+generative+interfaces' alt='github' height='14'></a>
 
 <!--
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1180070275&cover_image=false&theme=natemoo-re&bar_color_cover=true&bar_color=0cf104)](https://spotify-github-profile.vercel.app/api/view?uid=1180070275&redirect=true)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=velijv&show_icons=true&theme=github_dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=velijv&layout=compact&theme=github_dark" />
-</a>
-
-[![](https://github-readme-stats.vercel.app/api?username=velijv&show_icons=true&theme=github_dark)](#)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=velijv&layout=compact&theme=github_dark)](#)
 
 **velijv/velijv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
