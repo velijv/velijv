@@ -16,13 +16,16 @@
 [![Apple](https://img.shields.io/badge/iPad-Pro-000?logo=apple&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
 [![iOS](https://img.shields.io/badge/%E2%80%8E-16-000?logo=ios&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
 
+
+
 | <a href="#"><img src='https://veli.ee/img/pagespeed.php?3' alt='pagespeed' width="400"></a> | <a href="https://veli.ee/northeast"><img src='https://veli.ee/northeast/logo.php?c1=808080&c2=2962FF&t2' alt='github' width="300"></a> | <a href="#" title="Yes these are my real live stats"><img src='https://veli.ee/uptime/image.php?1' alt='Veli live stats' width="400"></a>
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 
 ## <a href="https://veli.ee"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=🎮+Not+workibg;📱+Brb+rooting+🔥+phone' alt='github' height='24'></a>
 [![OnePlus](https://img.shields.io/badge/8-T-rgba%280%2C0%2C0%2C0%29.svg?logo=oneplus&logoColor=fff&labelColor=F5010C&style=flat-square&color=rgba(0,0,0,0.3))](#)
 [![Android](https://img.shields.io/badge/%E2%80%8E-12-rgba%280%2C0%2C0%2C0%29?logo=android&logoColor=3ddc84&labelColor=083042&style=flat-square&color=rgba(0,0,0,0.3))](#)
-[![xbox](https://img.shields.io/badge/1-X-rgba%280%2C0%2C0%2C0%29?logo=xbox&logoColor=fff&labelColor=000&style=flat-square&color=rgba(0,0,0,0.3))](#)
+[![xbox](https://img.shields.io/badge/One-X-rgba%280%2C0%2C0%2C0%29?logo=xbox&logoColor=fff&labelColor=107c10&style=flat-square&color=rgba(0,0,0,0.3))](#)
+[![Razer](https://img.shields.io/badge/%E2%80%8E-rgb-000?&logo=razer&logoColor=000&labelColor=44d62c&style=flat-square&color=rgba(0,0,0,0.3))](#)
 
 ## <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=🧑‍💻+Fun+⌨️+hacking+Raspberries;+Hobby🔥+Linux+Administration' alt='github' height='24'></a>
 [![Raspberry Pi](https://img.shields.io/badge/4B-x64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a&style=flat-square&color=rgba(197,26,74,0.3))](#)
