@@ -3,6 +3,7 @@
 [![Figma](https://img.shields.io/badge/%E2%80%8E-💯-rgba%280%2C0%2C0%2C0%29.svg?logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzggNTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTE5IDI4LjVhOS41IDkuNSAwIDEgMSAxOSAwIDkuNSA5LjUgMCAwIDEtMTkgMHoiIGZpbGw9IiMxYWJjZmUiLz48cGF0aCBkPSJNMCA0Ny41QTkuNSA5LjUgMCAwIDEgOS41IDM4SDE5djkuNWE5LjUgOS41IDAgMSAxLTE5IDB6IiBmaWxsPSIjMGFjZjgzIi8+PHBhdGggZD0iTTE5IDB2MTloOS41YTkuNSA5LjUgMCAxIDAgMC0xOUgxOXoiIGZpbGw9IiNmZjcyNjIiLz48cGF0aCBkPSJNMCA5LjVBOS41IDkuNSAwIDAgMCA5LjUgMTlIMTlWMEg5LjVBOS41IDkuNSAwIDAgMCAwIDkuNXoiIGZpbGw9IiNmMjRlMWUiLz48cGF0aCBkPSJNMCAyOC41QTkuNSA5LjUgMCAwIDAgOS41IDM4SDE5VjE5SDkuNUE5LjUgOS41IDAgMCAwIDAgMjguNXoiIGZpbGw9IiNhMjU5ZmYiLz48L3N2Zz4=&logoColor=F24E1E&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
 [![Illy](https://img.shields.io/badge/%E2%80%8E-🔥-rgba%280%2C0%2C0%2C0%29.svg?logo=adobeillustrator&logoColor=FF9A00&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
 [![Photoshop](https://img.shields.io/badge/%E2%80%8E-🤔-rgba%280%2C0%2C0%2C0%29.svg?logo=adobephotoshop&logoColor=31A8FF&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
+[![Sublime](https://img.shields.io/badge/%E2%80%8E-⌨️-rgba%280%2C0%2C0%2C0%29.svg?logo=SublimeText&logoColor=FF9800&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
 [![CSS3](https://img.shields.io/badge/%E2%80%8E-😍-rgba%280%2C0%2C0%2C0%29.svg?logo=css3&logoColor=F24E1E&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
 [![HTML5](https://img.shields.io/badge/%E2%80%8E-✨-rgba%280%2C0%2C0%2C0%29.svg?logo=html5&logoColor=E34F26&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
 [![JavaScript](https://img.shields.io/badge/%E2%80%8E-👨‍💻-rgba%280%2C0%2C0%2C0%29.svg?logo=javascript&logoColor=F7DF1E&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
@@ -21,11 +22,11 @@
 | <a href="#"><img src='https://veli.ee/img/pagespeed.php?3' alt='pagespeed' width="400"></a> | <a href="https://veli.ee/northeast"><img src='https://veli.ee/northeast/logo.php?c1=808080&c2=2962FF&t2' alt='github' width="300"></a> | <a href="#" title="Yes these are my real live stats"><img src='https://veli.ee/uptime/image.php?1' alt='Veli live stats' width="400"></a>
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 
-## <a href="https://veli.ee"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=🎮+Not+workibg;📱+Brb+rooting+🔥+phone' alt='github' height='24'></a>
-[![OnePlus](https://img.shields.io/badge/8-T-rgba%280%2C0%2C0%2C0%29.svg?logo=oneplus&logoColor=fff&labelColor=F5010C&style=flat-square&color=rgba(0,0,0,0.3))](#)
-[![Android](https://img.shields.io/badge/%E2%80%8E-12-rgba%280%2C0%2C0%2C0%29?logo=android&logoColor=3ddc84&labelColor=083042&style=flat-square&color=rgba(0,0,0,0.3))](#)
-[![xbox](https://img.shields.io/badge/One-X-rgba%280%2C0%2C0%2C0%29?logo=xbox&logoColor=fff&labelColor=107c10&style=flat-square&color=rgba(0,0,0,0.3))](#)
-[![Razer](https://img.shields.io/badge/%E2%80%8E-rgb-000?&logo=razer&logoColor=000&labelColor=44d62c&style=flat-square&color=rgba(0,0,0,0.3))](#)
+## <a href="https://veli.ee"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=🎮+Playing;📱+Brb+rooting+🔥+phone' alt='github' height='24'></a>
+[![OnePlus](https://img.shields.io/badge/-8T-rgba%280%2C0%2C0%2C0%29.svg?logo=oneplus&logoColor=F5010C&labelColor=rgba(0,0,0,0)&style=flat-square&color=rgba(0,0,0,0.3))](#)
+[![Android](https://img.shields.io/badge/-12-fff?logo=android&logoColor=3ddc84&labelColor=rgba(0,0,0,0)&style=flat-square&color=rgba(0,0,0,0.3))](#)
+[![xbox](https://img.shields.io/badge/-One--X-fff?logo=xbox&logoColor=107c10&labelColor=rgba(0,0,0,0)&style=flat-square&color=rgba(0,0,0,0.3))](#)
+[![Razer](https://img.shields.io/badge/-✨-000?&logo=razer&logoColor=44d62c&labelColor=rgba(0,0,0,0)&style=flat-square&color=rgba(0,0,0,0.3))](#)
 
 ## <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=🧑‍💻+Fun+⌨️+hacking+Raspberries;+Hobby🔥+Linux+Administration' alt='github' height='24'></a>
 [![Raspberry Pi](https://img.shields.io/badge/4B-x64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=c51a4a&style=flat-square&color=rgba(197,26,74,0.3))](#)
