@@ -36,7 +36,7 @@
 ## <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon?svg' width="14"></a> <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=14&size=14&color=808080&font=Segoe&lines=I+just+💚+what+can+be+done+with+colors;And+dynamic+generative+interfaces' alt='github' height='14'></a>
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/velijv?logo=GithubSponsors&label=%E2%80%8E&style=flat-square&labelColor=rgba(234,74,170,0)&logocolor=EA4AAA&color=rgba(234,74,170,0.1))](https://github.com/sponsors/velijv)
-[![GitHub Sponsors](https://img.shields.io/badge/%231-cardouken-rgba(0,0,0,0)?logo=githubsponsors&logoColor=EA4AAA&labelColor=rgba(0,0,0,0)&style=flat-square&color=rgba(215,10,83,0.1))](https://github.com/cardouken)
+[![GitHub Sponsors](https://img.shields.io/badge/🥇-@cardouken-rgba(0,0,0,0)?logo=githubsponsors&logoColor=EA4AAA&labelColor=rgba(0,0,0,0)&style=flat-square&color=rgba(215,10,83,0.1))](https://github.com/cardouken)
 
 
 <!--
