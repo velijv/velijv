@@ -1,4 +1,4 @@
-# <a href="https://git.veli.ee"> <img src='https://veli.ee/favicon.svgz?c=2962FF&b=2962FF&g=0.5' alt='veli' height="32"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=32&size=32&color=808080&font=Segoe&lines=Veli+🦄;🏆👨‍🎨🎨👨‍💻;🤖🏠️🔥' alt='github' height='32'></a>
+# <a href="https://github.com/sponsors/velijv"><img src='https://img.shields.io/github/sponsors/velijv?logo=GithubSponsors&label=%E2%80%8E&style=flat-square&labelColor=rgba(234,74,170,0)&logocolor=EA4AAA&color=rgba(234,74,170,0.5)' alt='Sponsors' height='32'></a> <a href="https://git.veli.ee"> <img src='https://veli.ee/favicon.svgz?c=2962FF&b=2962FF&g=0.5' alt='veli' height="32"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=32&size=32&color=808080&font=Segoe&lines=Veli+🦄;🏆👨‍🎨🎨👨‍💻;🤖🏠️🔥' alt='github' height='32'></a>
 
 [![Figma](https://img.shields.io/badge/%E2%80%8E-💯-rgba%280%2C0%2C0%2C0%29.svg?logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzggNTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTE5IDI4LjVhOS41IDkuNSAwIDEgMSAxOSAwIDkuNSA5LjUgMCAwIDEtMTkgMHoiIGZpbGw9IiMxYWJjZmUiLz48cGF0aCBkPSJNMCA0Ny41QTkuNSA5LjUgMCAwIDEgOS41IDM4SDE5djkuNWE5LjUgOS41IDAgMSAxLTE5IDB6IiBmaWxsPSIjMGFjZjgzIi8+PHBhdGggZD0iTTE5IDB2MTloOS41YTkuNSA5LjUgMCAxIDAgMC0xOUgxOXoiIGZpbGw9IiNmZjcyNjIiLz48cGF0aCBkPSJNMCA5LjVBOS41IDkuNSAwIDAgMCA5LjUgMTlIMTlWMEg5LjVBOS41IDkuNSAwIDAgMCAwIDkuNXoiIGZpbGw9IiNmMjRlMWUiLz48cGF0aCBkPSJNMCAyOC41QTkuNSA5LjUgMCAwIDAgOS41IDM4SDE5VjE5SDkuNUE5LjUgOS41IDAgMCAwIDAgMjguNXoiIGZpbGw9IiNhMjU5ZmYiLz48L3N2Zz4=&logoColor=F24E1E&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
 [![Illy](https://img.shields.io/badge/%E2%80%8E-🔥-rgba%280%2C0%2C0%2C0%29.svg?logo=adobeillustrator&logoColor=FF9A00&labelColor=rgba(128,128,128,0)&style=flat-square)](#)
@@ -32,9 +32,12 @@
 [![HASS](https://img.shields.io/badge/%E2%80%8E-8.1-rgba%280%2C0%2C0%2C0%29?logo=HomeAssistant&logoColor=fff&labelColor=40BDF5&style=flat-square&color=rgba(64,189,245,0.3))](#)
 [![Raspberry Pi](https://img.shields.io/badge/4B-rpi4--64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A&style=flat-square&color=rgba(197,26,74,0.3))](#)
 [![Debian](https://img.shields.io/badge/%E2%80%8E-11-rgba%280%2C0%2C0%2C0%29?logo=debian&logoColor=white&labelColor=D70A53&style=flat-square&color=rgba(215,10,83,0.3))](#)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/velijv?logo=GithubSponsors&label=%E2%80%8E&style=flat-square&labelColor=rgba(234,74,170,0)&logocolor=EA4AAA&color=rgba(234,74,170,0.1))](https://github.com/sponsors/velijv)
 
 ## <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon?svg' width="14"></a> <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=14&size=14&color=808080&font=Segoe&lines=I+just+💚+what+can+be+done+with+colors;And+dynamic+generative+interfaces' alt='github' height='14'></a>
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/velijv?logo=GithubSponsors&label=%E2%80%8E&style=flat-square&labelColor=rgba(234,74,170,0)&logocolor=EA4AAA&color=rgba(234,74,170,0.1))](https://github.com/sponsors/velijv)
+[![GitHub Sponsors](https://img.shields.io/badge/%231-cardouken-rgba(0,0,0,0)?logo=githubsponsors&logoColor=EA4AAA&labelColor=rgba(0,0,0,0)&style=flat-square&color=rgba(215,10,83,0.1))](https://github.com/cardouken)
+
 
 <!--
 
