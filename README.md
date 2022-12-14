@@ -24,7 +24,7 @@
 
 ## <a href="https://veli.ee"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=24&size=24&color=808080&font=Segoe&lines=🎮+Playing;📱+Brb+rooting+🔥+phone' alt='github' height='24'></a>
 [![OnePlus](https://img.shields.io/badge/-8T-rgba%280%2C0%2C0%2C0%29.svg?logo=oneplus&logoColor=F5010C&labelColor=rgba(0,0,0,0)&style=flat-square&color=rgba(0,0,0,0.3))](#)
-[![Android](https://img.shields.io/badge/-12-fff?logo=android&logoColor=3ddc84&labelColor=rgba(0,0,0,0)&style=flat-square&color=rgba(0,0,0,0.3))](#)
+[![Android](https://img.shields.io/badge/-13-fff?logo=android&logoColor=3ddc84&labelColor=rgba(0,0,0,0)&style=flat-square&color=rgba(0,0,0,0.3))](#)
 [![xbox](https://img.shields.io/badge/-1--X-fff?logo=xbox&logoColor=107c10&labelColor=rgba(0,0,0,0)&style=flat-square&color=rgba(0,0,0,0.3))](#)
 [![Razer](https://img.shields.io/badge/-🔥-000?&logo=razer&logoColor=0f0&labelColor=rgba(0,0,0,0)&style=flat-square&color=rgba(0,0,0,0.3))](#)
 
