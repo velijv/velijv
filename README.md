@@ -15,8 +15,8 @@
 [![GTX](https://img.shields.io/badge/GTX-1650-1e1e1e.svg?&logo=nVIDIA&logoColor=white&labelColor=76b900&color=rgba(30,30,30,0.3)&style=flat-square)](#)
 [![Windows](https://img.shields.io/badge/11-pro-000?&logo=microsoft&logoColor=white&labelColor=0078d4&style=flat-square&color=rgba(0,0,0,0.3))](#)
 [![Apple](https://img.shields.io/badge/iPad-Pro-000?logo=apple&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
-[![iOS](https://img.shields.io/badge/%E2%80%8E-16-000?logo=iOS&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
-[![macbook](https://img.shields.io/badge/MacBook-Air-000?logo=apple&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
+[![iPadOS](https://img.shields.io/badge/iPadOS-16-000?logo=iOS&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
+[![macbook](https://img.shields.io/badge/MacBook-Air%20M1-000?logo=apple&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
 [![macos](https://img.shields.io/badge/%E2%80%8E-Ventura%2013-000?logo=MacOS&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
 
 | <a href="#"><img src='https://veli.ee/img/pagespeed.php?3' alt='pagespeed' width="400"></a> | <a href="https://veli.ee/northeast"><img src='https://veli.ee/northeast/logo?c=808080&b=2962FF&t2&t=veli+codes+in' alt='github' width="300"></a> | <a href="#" title="Yes these are my real live stats"><img src='https://veli.ee/uptime/image.php?1' alt='Veli live stats' width="400"></a>
@@ -33,7 +33,8 @@
 [![HASS](https://img.shields.io/badge/%E2%80%8E-8.1-rgba%280%2C0%2C0%2C0%29?logo=HomeAssistant&logoColor=fff&labelColor=40BDF5&style=flat-square&color=rgba(64,189,245,0.3))](#)
 [![Raspberry Pi](https://img.shields.io/badge/4B-rpi4--64-rgba%280%2C0%2C0%2C0%29?logo=Raspberry-Pi&logoColor=fff&labelColor=C51A4A&style=flat-square&color=rgba(197,26,74,0.3))](#)
 [![Debian](https://img.shields.io/badge/%E2%80%8E-11-rgba%280%2C0%2C0%2C0%29?logo=debian&logoColor=white&labelColor=D70A53&style=flat-square&color=rgba(215,10,83,0.3))](#)
-[![ESPhome](https://img.shields.io/badge/esp-32%2F8266-000?logo=Esphome&logoColor=fff&labelColor=000&style=flat-square&color=rgba(0,0,0,0.3))](#)
+[![ESPhome](https://img.shields.io/badge/esp-32-000?logo=Esphome&logoColor=fff&labelColor=000&style=flat-square&color=rgba(0,0,0,0.3))](#)
+[![ESPhome](https://img.shields.io/badge/esp-8266-000?logo=Esphome&logoColor=fff&labelColor=000&style=flat-square&color=rgba(0,0,0,0.3))](#)
 
 ## <a href="https://veli.ee/colorpedia"><img src='https://veli.ee/colorpedia/icon?svg' width="14"></a> <a href="https://github.com/velijv"><img src='https://veli.ee/typesvg?duration=3000&vCenter=true&height=14&size=14&color=808080&font=Segoe&lines=I+just+💚+what+can+be+done+with+colors;And+dynamic+generative+interfaces' alt='github' height='14'></a>
 
