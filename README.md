@@ -17,9 +17,9 @@
 [![GTX](https://img.shields.io/badge/GTX-1650-1e1e1e.svg?&logo=nVIDIA&logoColor=white&labelColor=76b900&color=rgba(30,30,30,0.3)&style=flat-square)](#)
 [![Windows](https://img.shields.io/badge/11-pro-000?&logo=microsoft&logoColor=white&labelColor=0078d4&style=flat-square&color=rgba(0,0,0,0.3))](#)
 [![Apple](https://img.shields.io/badge/iPad-Pro-000?logo=apple&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
-[![iPadOS](https://img.shields.io/badge/iPadOS-17-000?logo=iOS&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
+[![iPadOS](https://img.shields.io/badge/iPadOS-18-000?logo=iOS&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
 [![macbook](https://img.shields.io/badge/MacBook-Air%20M1-000?logo=apple&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
-[![macos](https://img.shields.io/badge/%E2%80%8E-14%20Sonoma%20Developer%20Beta-000?logo=MacOS&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
+[![macos](https://img.shields.io/badge/%E2%80%8E-15%20Sequoia%20Developer%20Beta-000?logo=MacOS&logoColor=888&labelColor=1d1d1f&style=flat-square&color=rgba(0,0,0,0.3))](#)
 
 | <a href="#"><img src='https://veli.ee/img/pagespeed.php?3' alt='pagespeed' width="400"></a> | <a href="https://veli.ee/northeast"><img src='https://veli.ee/northeast/logo?c=808080&b=2962FF&t2&t=veli+codes+in' alt='github' width="300"></a> | <a href="#" title="Yes these are my real live stats"><img src='https://veli.ee/uptime/image.php?1' alt='Veli live stats' width="400"></a>
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
